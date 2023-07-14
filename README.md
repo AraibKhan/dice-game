@@ -42,8 +42,8 @@ To run the Dice Game project locally, follow these steps:
 
 ## Demo
 
-A live demo of the Guess My Number project can be found at https://araib-dice-game.netlify.app/
+A live demo of the Dice Game project can be found at https://araib-dice-game.netlify.app/
 
 ## Contributing
 
-Contributions to the Guess My Number project are always welcome. If you have any suggestions or improvements, please submit a pull request. Before contributing, make sure to discuss your changes with the repository owners.
+Contributions to the Dice Game project are always welcome. If you have any suggestions or improvements, please submit a pull request. Before contributing, make sure to discuss your changes with the repository owners.
