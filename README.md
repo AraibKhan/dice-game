@@ -42,7 +42,7 @@ To run the Dice Game project locally, follow these steps:
 
 ## Demo
 
-A live demo of the Guess My Number project can be found at
+A live demo of the Guess My Number project can be found at https://araib-dice-game.netlify.app/
 
 ## Contributing
 
